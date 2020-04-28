@@ -1,0 +1,6 @@
+C:\Users\HaGrIL\Source\Repos\client2\ClientFirst\bin\Release\ClientFirst.exe.config
+C:\Users\HaGrIL\Source\Repos\client2\ClientFirst\bin\Release\ClientFirst.exe
+C:\Users\HaGrIL\Source\Repos\client2\ClientFirst\bin\Release\ClientFirst.pdb
+C:\Users\HaGrIL\Source\Repos\client2\ClientFirst\obj\Release\ClientFirst.csprojAssemblyReference.cache
+C:\Users\HaGrIL\Source\Repos\client2\ClientFirst\obj\Release\ClientFirst.exe
+C:\Users\HaGrIL\Source\Repos\client2\ClientFirst\obj\Release\ClientFirst.pdb

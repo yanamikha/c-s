@@ -1,0 +1,11 @@
+C:\Users\HaGrIL\Source\Repos\ClientFirst\ClientFirst\bin\Debug\ClientFirst.exe.config
+C:\Users\HaGrIL\Source\Repos\ClientFirst\ClientFirst\bin\Debug\ClientFirst.exe
+C:\Users\HaGrIL\Source\Repos\ClientFirst\ClientFirst\bin\Debug\ClientFirst.pdb
+C:\Users\HaGrIL\Source\Repos\ClientFirst\ClientFirst\obj\Debug\ClientFirst.csprojAssemblyReference.cache
+C:\Users\HaGrIL\Source\Repos\ClientFirst\ClientFirst\obj\Debug\ClientFirst.exe
+C:\Users\HaGrIL\Source\Repos\ClientFirst\ClientFirst\obj\Debug\ClientFirst.pdb
+C:\Users\HaGrIL\Source\Repos\client2\ClientFirst\bin\Debug\ClientFirst.exe
+C:\Users\HaGrIL\Source\Repos\client2\ClientFirst\bin\Debug\ClientFirst.exe.config
+C:\Users\HaGrIL\Source\Repos\client2\ClientFirst\obj\Debug\ClientFirst.csprojAssemblyReference.cache
+C:\Users\HaGrIL\Source\Repos\client2\ClientFirst\obj\Debug\ClientFirst.exe
+C:\Users\HaGrIL\Source\Repos\client2\ClientFirst\obj\Debug\ClientFirst.pdb

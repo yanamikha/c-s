@@ -1,0 +1,6 @@
+C:\Users\HaGrIL\Source\Repos\Server\Server\bin\Debug\Server.exe.config
+C:\Users\HaGrIL\Source\Repos\Server\Server\bin\Debug\Server.exe
+C:\Users\HaGrIL\Source\Repos\Server\Server\bin\Debug\Server.pdb
+C:\Users\HaGrIL\Source\Repos\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\HaGrIL\Source\Repos\Server\Server\obj\Debug\Server.exe
+C:\Users\HaGrIL\Source\Repos\Server\Server\obj\Debug\Server.pdb
